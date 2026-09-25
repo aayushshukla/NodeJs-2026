@@ -1,0 +1,15 @@
+{
+  "name": "httpdemo",
+  "version": "1.0.0",
+  "description": "Http server demo ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node myserver2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aayush",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^6.0.0"
+  }
+}

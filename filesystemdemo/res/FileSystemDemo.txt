@@ -1,0 +1,2 @@
+By using node js we can run js on server side and create web app	 
+ By using node js we can create cli application also. 
